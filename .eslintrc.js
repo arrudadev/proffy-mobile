@@ -42,6 +42,8 @@ module.exports = {
         newlinesBetween: 'always',
         groups: [
           '/^react/',
+          '/^expo/',
+          '/^@expo-google-fonts/',
           'module',
           '/\\/assets/',
           '/\\/components/',
