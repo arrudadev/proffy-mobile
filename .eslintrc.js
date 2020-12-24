@@ -74,5 +74,6 @@ module.exports = {
     'jsx-a11y/anchor-is-valid': 'off',
     'no-alert': 'off',
     'no-console': 'off',
+    'react/style-prop-object': 'off',
   },
 };

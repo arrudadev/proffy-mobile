@@ -13,3 +13,7 @@ web-build/
 .DS_Store
 
 yarn-*
+
+# Environment Variables
+environment.ts
+environment.js
