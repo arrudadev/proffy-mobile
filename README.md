@@ -29,11 +29,15 @@ All the resources used by this application comes from its [`API`](https://github
 
 Click to expand.<br>
 
+<div align="left">
+
 <img src="https://github.com/monteiro-alexandre/proffy-mobile/blob/master/.github/assets/landing.jpg" width="32%" />
 <img src="https://github.com/monteiro-alexandre/proffy-mobile/blob/master/.github/assets/give-classes.jpg" width="32%" />
 <img src="https://github.com/monteiro-alexandre/proffy-mobile/blob/master/.github/assets/search.jpg" width="32%" />
 <img src="https://github.com/monteiro-alexandre/proffy-mobile/blob/master/.github/assets/proffys.jpg" width="32%" />
 <img src="https://github.com/monteiro-alexandre/proffy-mobile/blob/master/.github/assets/favorites.jpg" width="32%" />
+
+</div>
 
 # :construction_worker: Installation
 
@@ -61,7 +65,7 @@ Or
 npm install
 ```
 
-Create your environment variables based on the examples of ```.env.example```
+Create your environment variables based on the examples of ```environment.example.ts```
 
 ```
 cp environment.example.ts environment.ts
